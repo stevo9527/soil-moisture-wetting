@@ -10,6 +10,4 @@ Requirements:
 The code is tested on Windows 11 with Python 3.9.19.
 
 Usage:
-put pre-generated DI maps into the directory '\Data'. It is recommended to us log-ratio operator to genrate intial DI maps.
-put their ground truth into the directory '\GT'.
-run 'main.m'
+Place the data from the “Data” folder into the corresponding .py files within the “Code” folder, then click to run.
